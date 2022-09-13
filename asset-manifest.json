@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5091f0e0.css",
+    "main.js": "/static/js/main.eea3e0f7.js",
+    "static/media/call-to-action-1.png": "/static/media/call-to-action-1.124aeb383f0f57c0263b.png",
+    "static/media/banner-1.webp": "/static/media/banner-1.67ca7bab10ce5ddd2d5c.webp",
+    "static/media/download-app.webp": "/static/media/download-app.35b7e56e6681cbf2c008.webp",
+    "static/media/deliver-products.webp": "/static/media/deliver-products.9e7f6fc1dfd551ffe525.webp",
+    "static/media/testimonials-block-image.webp": "/static/media/testimonials-block-image.d74acaad6a4569382911.webp",
+    "static/media/how-works-1.webp": "/static/media/how-works-1.802df2b74eeec6b3b447.webp",
+    "static/media/how-works-2.webp": "/static/media/how-works-2.60d5df3332b94570deb2.webp",
+    "static/media/how-works-3.webp": "/static/media/how-works-3.42c8b03fb18b70bd76d9.webp",
+    "index.html": "/index.html",
+    "main.5091f0e0.css.map": "/static/css/main.5091f0e0.css.map",
+    "main.eea3e0f7.js.map": "/static/js/main.eea3e0f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5091f0e0.css",
+    "static/js/main.eea3e0f7.js"
+  ]
+}
